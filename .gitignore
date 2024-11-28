@@ -1,0 +1,8 @@
+fine_tune_32_3b_model_40_qa_custom_1/
+fine_tune_32_3b_model_100_qa_custom_1/
+fine_tune_model_weights_50epochs/
+llama_32_3b_instruct_finetune/
+llama_32_3b_instruct_finetune_60_EPOCHS_1/
+llama_32_3b_instruct_finetune_40_EPOCHS_1/
+llama_32_3b_instruct_finetune_100_EPOCHS_1/
+res/
